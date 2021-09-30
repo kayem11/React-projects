@@ -1,2 +1,2 @@
-# React-projects
-React- JS Lib.
+# React Apps
+React (JS Lib.) Projects
